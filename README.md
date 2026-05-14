@@ -11,8 +11,6 @@ Welcome! I'm a **Full Stack Developer** and **Computer Engineer** from **Politec
 
 Currently working as a **Research Assistant at DIGEP – Politecnico di Torino**, where I develop software components for warehouse automation: simulation, system integration, and material flow analysis. Before that, I developed my **Master's Thesis** — an end-to-end redesign of Politecnico's Thesis Management System, validated by real users with a System Usability Scale (SUS) score in the **A grade range**.
 
-I'm open to **full stack, frontend, or backend** roles, with a growing interest in **DevOps**.
-
 ### 🧰 Tech Stack
 
 I mostly work with **JavaScript/TypeScript** on the **React + Node.js** stack, but I'm equally comfortable on the JVM side with **Kotlin and Spring Boot**. I've also built systems-level tools in **Rust** and worked with containerized **microservices** architectures.
