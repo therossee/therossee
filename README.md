@@ -42,7 +42,7 @@ I mostly work with **JavaScript/TypeScript** on the **React + Node.js** stack, b
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-### 🚀 Featured Projects
+### 🚀 My Projects
 
 - 🎓 **Thesis Management System** — End-to-end redesign of Politecnico di Torino's Thesis Management portal. Revised the SQL schema, built a new REST API layer, and led the UI/UX redesign with the in-house design team. Validated by users with a SUS score in the **A grade range**.
 - 💼 **[Job Placement Services](https://github.com/therossee/jps)** — A distributed Job Placement CRM platform built as Kotlin/Spring Boot microservices communicating via REST, containerized with Docker and consumed by a React/TypeScript frontend. *Full marks awarded.*
