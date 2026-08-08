@@ -34,6 +34,8 @@ I mostly work with **JavaScript/TypeScript** on the **React + Node.js** stack, b
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/MAVEN-000000?&logo=apachemaven&logoColor=blue)
 
 **Databases & Tools**
 
