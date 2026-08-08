@@ -9,7 +9,9 @@
 
 Welcome! I'm a **Full Stack Developer** and **Computer Engineer** from **Politecnico di Torino** (MSc, Software track — 110/110). I care about technology that is both **reliable** and **genuinely easy to use**, and I enjoy working across the whole stack — from database schema design to UI/UX decisions.
 
-Currently working as a **Research Assistant at DIGEP – Politecnico di Torino**, where I develop software components for warehouse automation: simulation, system integration, and material flow analysis. Before that, I developed my **Master's Thesis** — an end-to-end redesign of Politecnico's Thesis Management System, validated by real users with a System Usability Scale (SUS) score in the **A grade range**.
+Currently working as a **Backend Developer & Software Engineer Consultant** at **Silicon Shoring Reply**, specializing in core financial web services for a major Italian banking institution. My daily focus centers on building and maintaining enterprise-grade backend features using **Java**, **Spring Boot**, and **Maven**. I work extensively across the web service spectrum, designing modern **RESTful APIs** while integrating **SOAP services** to ensure high availability, security, and performance across core banking applications.
+
+Previously a **Research Assistant at DIGEP – Politecnico di Torino**, where I developed software components for warehouse automation: simulation, system integration, and material flow analysis. Before that, I developed my **Master's Thesis** — an end-to-end redesign of Politecnico's Thesis Management System, validated by real users with a System Usability Scale (SUS) score in the **A grade range**.
 
 ### 🧰 Tech Stack
 
